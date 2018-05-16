@@ -1,0 +1,3 @@
+[submodule "/Users/paulerikf/.vim/bundle/vim-voicecode"]
+	path = /Users/paulerikf/.vim/bundle/vim-voicecode
+	url = https://github.com/VoiceCode/vim-voicecode
